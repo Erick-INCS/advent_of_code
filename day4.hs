@@ -1,5 +1,7 @@
 import System.IO
 import Data.List.Split
+import Text.Read
+import Text.Regex(mkRegex, matchRegex)
 
 data Passport =
   Passport {
@@ -14,19 +16,26 @@ data Passport =
 
 nullP = Passport False False False False False False False
 
-setProp prop obj =
-  case prop of
-    "byr" -> obj{byr=True}
-    "iyr" -> obj{iyr=True}
-    "eyr" -> obj{eyr=True}
-    "hgt" -> obj{hgt=True}
-    "hcl" -> obj{hcl=True}
-    "ecl" -> obj{ecl=True}
-    "pid" -> obj{pid=True}
-    _ -> obj
+setProp prop obj
+  | prp == "byr" && (let y = read val :: Int in y >= 1920 && y <= 2002) = obj{byr=True}
+  | prp == "iyr" && (let y = read val :: Int in y >= 2010 && y <= 2020) = obj{iyr=True}
+  | prp == "eyr" && (let y = read val :: Int in y >= 2020 && y <= 2030) = obj{eyr=True}
+  | prp == "hgt" && (let 
+                        um  = (reverse . (take 2)) (reverse val)
+                        in
+                          case readMaybe (take ((length val) - 2) val) :: Maybe Float of
+                            Just n  -> if (um == "cm") then (n >= 150 && n <= 193) else (if um == "in" then n >= 59 && n <= 76 else False)
+                            Nothing -> False
+                    ) = obj{hgt=True}
+
+  | prp == "hcl" && (matchRegex (mkRegex "^#[0-9a-f]{6}$") val)             /= Nothing = obj{hcl=True}
+  | prp == "ecl" && (matchRegex (mkRegex "^amb$|^blu$|^brn$|^gry$|^grn$|^hzl$|^oth$") val) /= Nothing = obj{ecl=True}
+  | prp == "pid" && (matchRegex (mkRegex "^[0-9]{9}$") val) /= Nothing = obj{pid=True}
+  | otherwise    = obj
+  where (prp : val : _) = prop
 
 validatePassport ps = if (byr ps) && (iyr ps) && (eyr ps) && (hgt ps) && (hcl ps) && (ecl ps) && (pid ps) then 1 else 0
-getProps str = map (head . (splitOn ":")) $ words str
+getProps str = map (splitOn ":") $ words str
 setProps obj props =
   let (h : tl) = props
   in 
@@ -42,10 +51,6 @@ validate doc obj counter =
       validate tl nullP (counter + validatePassport obj)
     else
       validate tl ((setProps obj) (getProps h)) counter
-
--- valdation
-dt = [ "ecl:gry pid:860033327 eyr:2020 hcl:#fffffd" ,"byr:1937 iyr:2017 cid:147 hgt:183cmm", "", "iyr:2013 ecl:amb cid:350 eyr:2023 pid:028048884", "hcl:#cfa07d byr:1929", "","hcl:#ae17e1 iyr:2013", "eyr:2024", "ecl:brn pid:760753108 byr:1931", "hgt:179cm", "", "hcl:#cfa07d eyr:2025 pid:166559648", "iyr:2011 ecl:brn hgt:59in"]
-
 
 main :: IO()
 main = do
