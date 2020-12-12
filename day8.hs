@@ -52,7 +52,7 @@ runp2 dt (indx, acc) indexes lastExecution chgIndxs changed
     | otherwise = runp2 dt (exec current (indx, acc)) (indexes ++ [indx]) lastExec chgIndxs changed
     where 
         current = dt!!indx
-        lastExec = if fst current `elem` ["jmp", "nop"] && not (indx `elem` chgIndxs)
+        lastExec = if fst current `elem` ["jmp", "nop"] && notElem indx chgIndxs
             then (exec (invert (fst current), snd current) (indx, acc), indx) -- `debug` show (invert (fst current), snd current, current, fst current)
             else lastExecution
 
