@@ -4,7 +4,7 @@ Here is my advent of code solutions written in some of my favorite programming l
 
 
 |    | Haskell  | Python   | Julia  | Scala |
-| -  | -        | -        | -      |       |
+| -  | -        | -        | -      |  -    |
 | 01 |          | ✓        |        |       |
 | 02 |          | ✓        |        |       |
 | 03 | ✓        | ✓        |        |       |
