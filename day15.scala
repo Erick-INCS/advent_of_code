@@ -1,7 +1,6 @@
 import scala.io.Source
 import scala.collection.mutable.Map
 
-
 val nums = Source.fromFile("inputs/inp_day15.txt").getLines.mkString.split(",").map((s:String) => s.toInt).toList
 
 var count = 0
@@ -33,4 +32,8 @@ def solve(n2: Int, limit: Int, nums: List[Int]) : Int = {
   return n
 }
 
-solve(nums.last, 2020, nums diff List(nums.last))
+// part 1
+// solve(nums.last, 2020, nums diff List(nums.last))
+
+// part 2
+val p2 = () => solve(nums.last, 30000000, nums diff List(nums.last))
