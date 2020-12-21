@@ -30,5 +30,4 @@ def solve(n, limit, nums):
 #  solve(nums.last, 2020, nums diff List(nums.last))
 
 #  part 2
-# print(solve(data[-1], 30000000, data[:-1]))
-print(solve(data[-1], 2020, data[:-1]))
+print(solve(data[-1], 30000000, data[:-1]))
