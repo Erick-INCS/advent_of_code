@@ -4,3 +4,4 @@ test.hs
 .vscode/
 __pycache__
 test/
+.metals/
