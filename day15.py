@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env pypy
 
 with open("inputs/inp_day15.txt") as data:
     data = [int(n) for n in data.read().strip().split(",")]
@@ -24,10 +24,11 @@ def solve(n, limit, nums):
             n_tmp = count - mp[n]
             mp[n] = count
             n = n_tmp
+        print(n)
     return n
 
 #  part 1
-#  solve(nums.last, 2020, nums diff List(nums.last))
+print(solve(data[-1], 30, data[:-1]))
 
 #  part 2
-print(solve(data[-1], 30000000, data[:-1]))
+# print(solve(data[-1], 30000000, data[:-1]))

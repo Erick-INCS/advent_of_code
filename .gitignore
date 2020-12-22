@@ -3,3 +3,4 @@ test.jl
 test.hs
 .vscode/
 __pycache__
+test/

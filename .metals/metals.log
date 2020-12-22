@@ -1,0 +1,205 @@
+2020.12.21 07:51:06 INFO  Started: Metals version 0.9.8 in workspace '/HDD/Code/advent_of_code' for client vscode.
+2020.12.21 07:51:08 INFO  time: initialize in 2.58s
+2020.12.21 07:51:10 WARN  Build server is not auto-connectable.
+2020.12.21 07:51:10 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 07:51:10 WARN  no build target for: /HDD/Code/advent_of_code/test/test.scala
+2020.12.21 07:51:16 INFO  no build target: using presentation compiler with only scala-library
+2020.12.21 07:51:51 WARN  no build target for: /HDD/Code/advent_of_code/test/test.scala
+2020.12.21 07:53:39 WARN  no build target for: /HDD/Code/advent_of_code/test/test.scala
+2020.12.21 07:53:43 WARN  no build target for: /HDD/Code/advent_of_code/test/test.scala
+2020.12.21 07:53:52 INFO  shutting down Metals
+2020.12.21 15:54:09 INFO  Started: Metals version 0.9.8 in workspace '/HDD/Code/advent_of_code' for client vscode.
+2020.12.21 15:54:13 INFO  time: initialize in 4.11s
+2020.12.21 15:54:15 WARN  Build server is not auto-connectable.
+2020.12.21 15:54:15 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 15:54:15 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 15:54:20 INFO  no build target: using presentation compiler with only scala-library
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 11
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 12
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 13
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 14
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+Dec 21, 2020 3:54:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 19
+Dec 21, 2020 3:56:03 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 21, 2020 3:56:47 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+Dec 21, 2020 3:56:51 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTraceNotification
+2020.12.21 15:57:11 INFO  shutting down Metals
+2020.12.21 15:57:31 INFO  Started: Metals version 0.9.8 in workspace '/HDD/Code/advent_of_code' for client vscode.
+2020.12.21 15:57:34 INFO  time: initialize in 3.25s
+2020.12.21 15:57:35 WARN  Build server is not auto-connectable.
+2020.12.21 15:57:35 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 15:57:35 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 15:57:40 INFO  no build target: using presentation compiler with only scala-library
+2020.12.21 15:58:19 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:10:41 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:10:45 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:11:18 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:11:19 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:12:10 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:12:12 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:16:10 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:16:40 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:16:59 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:17:17 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:17:37 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 16:17:39 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 16:17:40 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 16:17:46 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:22:04 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:22:20 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:22:49 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:24:03 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:24:07 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:24:32 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:24:43 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:26:05 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:26:05 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:26:13 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:26:14 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:26:20 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:26:30 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:26:46 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:26:57 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:29:18 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:29:48 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:30:03 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:30:07 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:31:19 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:39:19 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:39:33 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:39:49 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:40:20 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:40:24 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:42:25 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:43:33 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:44:13 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:44:31 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:44:46 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:45:31 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:45:45 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:45:46 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:46:08 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:46:38 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:47:14 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:48:09 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:48:17 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 16:48:17 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:48:37 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:49:26 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:49:33 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 16:49:39 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:49:48 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:50:18 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:50:42 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:50:45 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:50:53 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:51:20 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+Dec 21, 2020 4:52:32 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2116
+2020.12.21 16:53:06 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:53:08 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:53:13 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:53:36 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:53:43 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:55:27 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 16:55:29 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:56:04 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:56:23 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 16:56:43 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:01:54 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:04:28 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:05:20 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:06:13 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:06:27 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:06:27 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:07:56 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:08:04 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:10:40 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:11:20 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:11:29 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:11:33 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:12:26 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:12:45 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:13:06 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:13:38 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:14:16 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:14:27 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:15:05 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:16:43 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:19:15 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:20:19 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:20:44 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:21:35 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:22:36 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:22:56 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:23:05 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:23:54 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:24:00 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:24:05 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:27:37 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:30:23 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:30:25 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:33:03 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:33:07 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:33:30 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:39:57 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:40:36 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:40:45 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:40:52 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:42:11 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:42:23 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:42:49 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:43:07 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:43:15 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:43:20 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:43:27 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:43:39 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:44:09 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:44:13 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 17:44:16 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 18:42:51 INFO  Started: Metals version 0.9.8 in workspace '/HDD/Code/advent_of_code' for client vscode.
+2020.12.21 18:42:55 INFO  time: initialize in 4.8s
+2020.12.21 18:42:57 WARN  Build server is not auto-connectable.
+2020.12.21 18:42:57 WARN  no build tool detected in workspace '/HDD/Code/advent_of_code'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.12.21 18:42:57 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 18:43:02 INFO  no build target: using presentation compiler with only scala-library
+2020.12.21 18:43:13 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 18:43:18 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 18:46:24 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 18:47:19 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 18:47:50 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 18:48:15 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 18:48:15 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:01:18 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:01:28 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:02:13 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:02:28 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:02:34 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:02:52 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:03:08 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:03:43 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:03:48 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:03:58 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:04:15 WARN  no build target for: /HDD/Code/advent_of_code/day15.scala
+2020.12.21 19:11:50 INFO  shutting down Metals
