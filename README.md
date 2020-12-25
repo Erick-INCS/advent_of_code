@@ -20,4 +20,4 @@ Here is my advent of code solutions written in some of my favorite programming l
 | 13 |          | ✓        |        |       |       |
 | 14 |          | ✓        |        |       |       |
 | 15 | 1m 29sg ✓| 13sg ✓   | 17sg ✓ | 10sg ✓| 3sg ✓ |
-| 16 |          |          |        | 10sg ✓|       |
+| 16 |          |          |        | ✓     |       |
